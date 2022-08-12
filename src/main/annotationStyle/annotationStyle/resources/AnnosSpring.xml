@@ -15,7 +15,7 @@
         <property name="mob" value="4087658354"/>
     </bean>
 
-    <bean id="annoAddress" class="annotationStyle.AnnoAddress">
+    <bean id="annoStyleAddress" class="annotationStyle.AnnoAddress">
         <!-- city state country zipcode -->
         <property name="city" value="Santa Clara"/>
         <property name="country" value="United States"/>
@@ -23,11 +23,11 @@
         <property name="zipcode" value="95050"/>
     </bean>
 
-    <bean id="annoStudent" class="annotationStyle.AnnoStudent">
+    <bean id="annoStyleStudent" class="annotationStyle.AnnoStudent">
         <!-- ID name phone address -->
         <property name="id" value="1339987"/>
         <property name="name" value="John"/>
-        <property name="add" ref="annoAddress"/>
+        <property name="add" ref="annoStyleAddress"/>
         <property name="ph">
             <list value-type="annotationStyle.AnnoPhone">
                 <ref bean="annoCellPhone"/>
@@ -36,7 +36,5 @@
         </property>
 
     </bean>
-
-
 
 </beans>

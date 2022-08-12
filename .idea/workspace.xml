@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce56297-7691-4e1f-9702-58c2cda2c3c3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/resources/AnnosSpring.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/xmlConfigStyle/xmlConfig/resources/Spring.xml" afterDir="false" />
+    <list default="true" id="2ce56297-7691-4e1f-9702-58c2cda2c3c3" name="Changes" comment="fixed base-package">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/resources/AnnosSpring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/resources/AnnosSpring.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,8 +138,16 @@
       <workItem from="1660339657287" duration="4000" />
       <workItem from="1660339729511" duration="145000" />
       <workItem from="1660339903725" duration="129000" />
-      <workItem from="1660340153841" duration="990000" />
+      <workItem from="1660340153841" duration="1618000" />
     </task>
+    <task id="LOCAL-00001" summary="fixed base-package">
+      <created>1660341391836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660341391836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,5 +163,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed base-package" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed base-package" />
   </component>
 </project>

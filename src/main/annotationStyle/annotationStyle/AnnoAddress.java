@@ -3,7 +3,7 @@ package annotationStyle;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
 
-@Component
+@Component("annoStyleAddress")
 public class AnnoAddress {
 
     private String city;

@@ -2,7 +2,7 @@ package annotationStyle;
 
 import org.springframework.stereotype.Component;
 
-@Component
+@Component()
 public class AnnoPhone {
 
     private String mob;
