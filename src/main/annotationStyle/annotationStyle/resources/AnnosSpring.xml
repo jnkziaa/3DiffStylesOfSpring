@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans-3.0.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+    <context:component-scan base-package="org.genspark" />
+
+    <bean id="annoCellPhone" class="annotationStyle.AnnoPhone">
+        <!-- mob -->
+        <property name="mob" value="4081234567"/>
+    </bean>
+    <bean id="annoHomePhone" class="annotationStyle.AnnoPhone">
+        <!-- mob -->
+        <property name="mob" value="4087658354"/>
+    </bean>
+
+    <bean id="annoAddress" class="annotationStyle.AnnoAddress">
+        <!-- city state country zipcode -->
+        <property name="city" value="Santa Clara"/>
+        <property name="country" value="United States"/>
+        <property name="state" value="California"/>
+        <property name="zipcode" value="95050"/>
+    </bean>
+
+    <bean id="annoStudent" class="annotationStyle.AnnoStudent">
+        <!-- ID name phone address -->
+        <property name="id" value="1339987"/>
+        <property name="name" value="John"/>
+        <property name="add" ref="annoAddress"/>
+        <property name="ph">
+            <list value-type="annotationStyle.AnnoPhone">
+                <ref bean="annoCellPhone"/>
+                <ref bean="annoHomePhone"/>
+            </list>
+        </property>
+
+    </bean>
+
+
+
+</beans>
