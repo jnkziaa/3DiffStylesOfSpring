@@ -1,24 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ce56297-7691-4e1f-9702-58c2cda2c3c3" name="Changes" comment="" />
+    <list default="true" id="2ce56297-7691-4e1f-9702-58c2cda2c3c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/AnnoStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/annotationStyle/annotationStyle/resources/AnnosSpring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/xmlConfigStyle/xmlConfig/resources/Spring.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2DGuG2D3EbZ5IJHuiE4WO0GI25m" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_directory_selection": "C:/SpringBoot/SpringCheck/src/main/xmlConfigStyle",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "spring.configuration.checksum": "6879144b2d1e1bdf86bb0d08480a3379"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SpringBoot\SpringCheck\src\main\annotationStyle\annotationStyle\resources" />
+      <recent name="C:\SpringBoot\SpringCheck\src\main\xmlConfigStyle\xmlConfig\resources" />
+      <recent name="C:\SpringBoot\SpringCheck\src\main\xmlConfigStyle" />
+      <recent name="C:\SpringBoot\SpringCheck\src\main\javaConfigStyle" />
+      <recent name="C:\SpringBoot\SpringCheck\src\main\resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.annotationStyle.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.genspark.App" />
+      <module name="SpringCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.genspark.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="JavaConfigMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConfigMain" />
+      <module name="SpringCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SpringCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration name="annotationStyle.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotationStyle.App" />
+      <module name="SpringCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotationStyle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="com.soywiz.korge.intellij.UpdateResourceBeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.annotationStyle.App" />
+        <item itemvalue="Application.JavaConfigMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -27,8 +133,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660337642898</updated>
+      <workItem from="1660337644152" duration="93000" />
+      <workItem from="1660337747350" duration="112000" />
+      <workItem from="1660337869881" duration="67000" />
+      <workItem from="1660337945010" duration="60000" />
+      <workItem from="1660338031665" duration="710000" />
+      <workItem from="1660339026570" duration="33000" />
+      <workItem from="1660339237148" duration="6000" />
+      <workItem from="1660339623778" duration="13000" />
+      <workItem from="1660339657287" duration="4000" />
+      <workItem from="1660339729511" duration="145000" />
+      <workItem from="1660339903725" duration="129000" />
+      <workItem from="1660340153841" duration="990000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

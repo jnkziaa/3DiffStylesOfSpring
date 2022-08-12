@@ -1,4 +1,4 @@
-package org.genspark;
+package annotationStyle;
 
 import org.springframework.stereotype.Component;
 

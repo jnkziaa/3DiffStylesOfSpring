@@ -1,4 +1,4 @@
-package org.genspark;
+package annotationStyle;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.stereotype.Component;
